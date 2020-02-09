@@ -1,0 +1,21 @@
+
+[
+    {
+        "firstName" : "okan",
+        "lastName"  : "yeşiloğlu",
+        "age" : 19,
+        "retired" : false
+    },
+    {
+        "firstName" : "Alican",
+        "lastName"  : "yeşiloğlu",
+        "age" : 1,
+        "retired" : false
+    },
+    {
+        "firstName" : "Mehmet",
+        "lastName"  : "yeşiloğlu",
+        "age" : 55,
+        "retired" : true
+    }
+]
